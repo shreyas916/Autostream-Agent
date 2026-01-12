@@ -19,7 +19,7 @@ pip install -r requirements.txt
 python main.py
 
 ## Demo Video
-Demo video showing pricing conversation and plan selection:
+Demo video showing the chatbot flow (pricing inquiry, plan selection, user details):
 Google Drive link: https://drive.google.com/file/d/1TJEVgkd_Uuua7EVqUI1nrgBwX26L5Hqx/view?usp=sharing
 
 
